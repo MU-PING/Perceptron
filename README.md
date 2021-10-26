@@ -1,4 +1,4 @@
-# Perceptron
+# perceptron
 ## 程式簡介
 ### 使用說明
 > 透過視覺化界面與動態更新展示「單層感知機( Perceptron )」的更新方法與使用

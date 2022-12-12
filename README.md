@@ -16,7 +16,7 @@
 
  
 ### 範例圖
-![](https://i.imgur.com/LNf6ZHh.png)
+![ba17da18-7644-4c51-b78c-dc7fd719fc01](https://user-images.githubusercontent.com/93152909/207148215-530d3646-6b3e-4798-ba29-1047281480bf.gif)
 
 ## Perceptron演算法
 ### 演算法簡介
